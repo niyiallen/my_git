@@ -1,1 +1,6 @@
 This is just a test file for source control
+
+Version control really comes into its own when we begin to collaborate with other people.  In practice, groups
+like to use a central hub/cloud stored on the web rather than on someone’s laptop so that all collaborators
+can easily access the repository.  Git is so popular because of websites like Github and BitBucket which make
+collaboration so easy.
