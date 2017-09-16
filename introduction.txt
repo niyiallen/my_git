@@ -1,1 +1,7 @@
 Hello World
+Remember, our local repository still contains our earlier work, but the remote repository on GitHub doesn’t
+contain any files yet.  The next step is to connect the two repositories.  We do this by making the GitHub
+repository a remote for the local repository.  The home page of the repository on GitHub includes the string
+we need to identify it.  Since we have already created a repository on our local computer, we are interested
+in the instructions in the second box.  Making sure we are in the my
+thesis directory locally...
